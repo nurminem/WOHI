@@ -38,11 +38,15 @@ img {
 
 
 .card {
-    margin: 0 auto; /* Keskittää kortin vaakasuunnassa */
+    margin: 0 auto; 
 }
 .contact-info-card {
     max-width: 20rem;
 }
 .social-links a {
-    margin-right: 5px; /* Lisätään hieman tilaa linkkien väliin */
+    margin-right: 5px; 
+}
+
+.card-header{
+    font-weight:  bold;
 }

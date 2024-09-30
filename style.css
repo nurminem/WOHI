@@ -1,0 +1,48 @@
+
+
+h1, h2, h3, p {
+    margin-bottom: 50px; 
+    margin-top: 50px;
+}
+
+
+.navbar {
+    font-size: 20px;
+}
+
+.navbar-nav .nav-item {
+    margin-right: 20px; 
+}
+
+
+button[type="submit"] {
+    margin-top: 30px; 
+    
+}
+
+
+body {
+    padding-bottom: 50px; 
+}
+
+img {
+    border: 1px solid #6d71bb; 
+    border-radius: 5px; 
+}
+
+
+.card-img {
+    max-width: 50%;
+    margin: 0 auto; 
+}
+
+
+.card {
+    margin: 0 auto; /* Keskittää kortin vaakasuunnassa */
+}
+.contact-info-card {
+    max-width: 20rem;
+}
+.social-links a {
+    margin-right: 5px; /* Lisätään hieman tilaa linkkien väliin */
+}
